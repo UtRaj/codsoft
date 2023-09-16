@@ -1,6 +1,5 @@
-This are the 5 tasks given under CODSOFT data science internship which have been performed.
-
 Platform used:- Google Colab
+
 Programming Language Used:- Python
 
 TASK 1:- The Titanic Survival Prediction datatset contains information such as age , gender , ticket class , fare , cabin and it has been used to predict whether a person on the titanic survived.
